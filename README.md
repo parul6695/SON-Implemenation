@@ -3,10 +3,10 @@ Implementation of SON (Savasere, Omiecinski and Navathe: https://dl.acm.org/cita
 Find full description of tasks in assignment <a href="https://github.com/parul6695/SON-Implemenation/blob/master/Assignment2.pdf"> here</a>.<br>
 
 Input Files used in this project:<br>
-business.json<br>
+user_business.csv<br>
 small1.csv<br>
 small2.csv<br>
-Unable to load business.json due to large size of file.<br>
+*Unable to load user_business.csv due to large size of file.<br>
 
 Scripts:<br>
 task1.py<br>
